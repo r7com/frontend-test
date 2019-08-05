@@ -37,7 +37,7 @@ Depois do setup acima, você deve seguir as seguintes instruções, para constru
 1. Não usar geradores como yeoman, angular-cli, create-react-app.
 1. Utilizar um pré-processador CSS de sua preferência.
 1. Testes, você pode usar jest, cypress.
-1. Documentação, nos conte como usar seu projeto, rodar os testes, subir a aplicação.
+1. Documentação, nos conte como usar seu projeto em doc/README.md, como rodar os testes, subir a aplicação, etc.
 1. Automação de tarefas, você pode usar ferramentas como Gulp, Grunt, Webpack.
 1. Ser fiel ao .psd.
 1. Crossbrowser, sua aplicação deve funcionar nos principais navegadores (IE11+, Firefox, Safari, Chrome).
@@ -46,7 +46,7 @@ Depois do setup acima, você deve seguir as seguintes instruções, para constru
 ### O que será avaliado?
 - Ordenação dos participantes
 - Cálculo dos votos
-- Layout responsivoter
+- Layout responsivo
 - Documentação
 - Automatizador de tarefas
 - Performance
