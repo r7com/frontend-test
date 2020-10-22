@@ -1,5 +1,7 @@
 ### Sobre o R7.COM
-O R7.com é um portal mantido pela Record TV, com quase 10 anos de vida. Possui mais de 50 milhões de visitantes únicos e média de 200 milhões de pageviews mensalmente e conta coma uma equipe de quase 300 pessoas.
+O R7.com, portal do Grupo Record de Comunicação acumula 1 bilhão de páginas vistas mensalmente e tem mais de 76 milhões de visitantes únicos por mês. São mais de 600 milhões de vídeo views e 84 milhões de engajamento nas redes. Com mais de 40 colunistas, o portal R7 tem uma força muito grande no ambiente mobile: 67 milhões de seus visitantes únicos utilizam dispositivos móveis para acessar o portal.
+
+O ambiente digital da Record conta muita interação. São 43 milhões de inscritos no YouTube; 63 milhões no Facebook; 25 milhões no Instagram e mais de 26 Milhões no Twitter.
 
 ### Teste Frontend
 Esse teste consiste em conhecermos um pouco mais sobre suas skills com HTML, CSS, JavaScript, Código responsivo, suporte a crossbrowser e lógica.
