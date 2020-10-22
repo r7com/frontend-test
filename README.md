@@ -30,7 +30,7 @@ Depois do setup acima, você deve seguir as seguintes instruções, para constru
 
 ### Pontos de atenção
 1. **NÃO** alterar o arquivo **fazenda.json**. Em hipótese nenhuma!
-1. **Não submeta o Pull Request**, envie um link do seu repositório para <apinto@rederecord.com.br>
+1. **Não submeta o Pull Request**, envie um link do seu repositório para <pasantos@recordtv.com.br>
 
 ### Requisitos obrigatórios
 > todas as ferramentas citadas abaixo são apenas exemplos, você pode usar a que preferir.
