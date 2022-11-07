@@ -37,12 +37,11 @@ Depois do setup acima, você deve seguir as seguintes instruções, para constru
 
 1. Escreva  o código da melhor forma possível, utilizando javascript puro ou algum framework: react, angular, vue.
 1. Não usar geradores como yeoman, angular-cli, create-react-app.
-1. Utilizar um pré-processador CSS de sua preferência.
+1. Utilizar CSS componentizado com boas práticas e padrões de arquitetura (OBS: Não utilizar um framework pronto como Bootstrap)
 1. Testes, você pode usar jest, cypress.
 1. Documentação, nos conte como usar seu projeto em doc/README.md, como rodar os testes, subir a aplicação, etc.
-1. Automação de tarefas, você pode usar ferramentas como Gulp, Grunt, Webpack.
+1. Automação de tarefas, você pode usar ferramentas como Gulp, Grunt, Webpack entre outras.
 1. Ser fiel ao .psd.
-1. Crossbrowser, sua aplicação deve funcionar nos principais navegadores (IE11+, Firefox, Safari, Chrome).
 1. O layout deve ser responsivo
 
 ### O que será avaliado?
@@ -56,7 +55,6 @@ Depois do setup acima, você deve seguir as seguintes instruções, para constru
 - Boas práticas
 - ES6
 - Testes
-- Pré-processador css
 - Arquitetura css (BEM, SMACSS, ITCSS, etc)
 - Semântica/Acessibilidade/SEO
 
