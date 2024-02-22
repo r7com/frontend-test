@@ -1,11 +1,16 @@
 {
   "name": "R7FrontendTest",
   "version": "0.0.1",
+  "type": "module",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "dev": "node app.js --dev-server"
   },
   "dependencies": {
     "connect": "~3.1.1",
     "serve-static": "~1.5.3"
+  },
+  "devDependencies": {
+    "browser-sync": "^3.0.2"
   }
 }
